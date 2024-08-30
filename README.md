@@ -59,7 +59,7 @@ A **aula invertida** é um modelo pedagógico que inverte a dinâmica tradiciona
 
 ## 🚀 Como Usar Este Repositório
 
-1. **Clone o repositório**: `git clone https://github.com/usuario/projeto-aula-invertida.git`
+1. **Clone o repositório**: `git clone https://github.com/marquinholutero/aula-invertida-bootcamp-SoulCode`
 2. **Navegue pelas pastas** para acessar os materiais e documentos necessários.
 3. **Contribua**: Sinta-se à vontade para adicionar novas referências ou melhorias através de pull requests.
 
