@@ -29,7 +29,7 @@ A **aula invertida** é um modelo pedagógico que inverte a dinâmica tradiciona
 ## 📁 Estrutura do Repositório
 
 ### 1. Planejamento de Aula
-- **Planejamento - Aula Invertida.pdf**: Contém o escopo, a distribuição de tarefas e o registro das reuniões.
+- **Planejamento - Aula Invertida.docx**: Contém o escopo, a distribuição de tarefas e o registro das reuniões.
 - **Pesquisas Individuais/**: Pasta com as pesquisas realizadas por cada integrante da equipe.
 - **Organização do Conteúdo.docx**: Documento consolidando as pesquisas individuais para estruturar a apresentação.
 - **Script de Apresentação.docx**: Roteiro detalhado para a apresentação final.
@@ -39,10 +39,10 @@ A **aula invertida** é um modelo pedagógico que inverte a dinâmica tradiciona
 - **Manual_da_Marca_ByNelle.pdf**: Documento criado e editado por Michelle Possancini, detalhando a identidade visual da marca "By Nelle".
 
 ### 3. Tutorial Carla Castro
-- **Tutorial_Edicao_Foto_Perfil.pdf**: Tutorial criado por Carla de Jesus Almeida de Castro ensinando como editar foto de perfil conforme realizado na apresentação.
+- **Tutorial_Edicao_Foto_Perfil**: Tutorial criado por Carla de Jesus Almeida de Castro ensinando como editar foto de perfil conforme realizado na apresentação.
 
 ### 4. Apresentação
-- **Apresentação_Final.pdf**: Versão final da apresentação utilizada para expor o projeto.
+- **Apresentação**: Versão final da apresentação utilizada para expor o projeto.
 
 ## 📚 Escopo Proposto
 
