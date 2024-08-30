@@ -63,6 +63,3 @@ A **aula invertida** é um modelo pedagógico que inverte a dinâmica tradiciona
 2. **Navegue pelas pastas** para acessar os materiais e documentos necessários.
 3. **Contribua**: Sinta-se à vontade para adicionar novas referências ou melhorias através de pull requests.
 
-## 📄 Licença
-
-Este projeto é licenciado sob a [Licença MIT](./LICENSE).
